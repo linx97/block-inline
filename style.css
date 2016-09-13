@@ -1,5 +1,5 @@
 /* Put your CSS rules here: */
-.picture_container {
+.picture_container > img {
 	border: 10px solid blue;
 	padding-top: 10px;
 	padding-right: 10px;
